@@ -65,3 +65,11 @@ else:
             else:
                print("error ! please enter four digits year 1946 or later..")
 
+
+# defining the function 
+def ashish():
+   print('he is the billionare of wall street')
+   print('going to mars soon')
+   ashish()
+   print('yeah')
+   ashish()
